@@ -1,6 +1,6 @@
 # Zaviere B. | Cybersecurity Portfolio
 
-Hi, I’m **Zaviere B.**  
+Hi, I’m **Zayiere Blount**  
 An aspiring cybersecurity professional currently pursuing my degree at DeVry University. This portfolio highlights my hands-on experience with virtual labs, cybersecurity tools, and practical learning from platforms like TryHackMe and academic environments.
 
 ---
@@ -61,8 +61,8 @@ Performed reconnaissance and exploitation on a vulnerable Linux machine using ba
 
 ## 📫 Contact
 
-- **Email**: Zaviere.B@email.com  
-- **LinkedIn**: [linkedin.com/in/zaviere-b](#)  
+- **Email**: Zayiereblount@gmail.com  
+- **LinkedIn**: www.linkedin.com/in/zayiere-blount-920161241  
 - **GitHub**: [github.com/ZaviereB](#)  
 - **Resume**: [View PDF](#)
 
