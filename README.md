@@ -12,7 +12,8 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 - Virtualization & Cloud Lab Environments
 - Penetration Testing (Reconnaissance, Exploitation, Privilege Escalation)
 - Incident Response (Log Analysis, Forensics, Risk Mitigation)
-![image](https://github.com/user-attachments/assets/4b482ba7-f750-4b0b-82bf-6c5a1d866ed1)
+![image](https://github.com/user-attachments/assets/4b482ba7-f750-4b0b-82bf-6c5a1d866ed1) ![image](https://github.com/user-attachments/assets/8e28ea53-5b5e-4752-a94b-59a47db6b271)
+
 
 ---
 
