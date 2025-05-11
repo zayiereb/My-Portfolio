@@ -35,6 +35,8 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 
 **Screenshot**:  
 ![image](https://github.com/user-attachments/assets/acb3d34c-0ef3-4dea-ada0-0aa08e3063ba)
+![image](https://github.com/user-attachments/assets/53fd33b0-f3bc-40e8-a499-ada447da24d7)
+
 
 
 ---
