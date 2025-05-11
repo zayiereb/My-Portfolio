@@ -25,8 +25,7 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 
 **Platform**: DeVry University Virtual Lab  
 **Tools Used**: Group Policy Editor, Windows Firewall, Event Viewer  
-**Description**: ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4469683.png)
-[Visit my TryHackMe profile](https://tryhackme.com/p/4469683) 
+**Description**:  
 Configured a secure Windows Server 2019 instance by disabling legacy protocols (e.g., SMBv1), enforcing password complexity, and auditing login events.  
 
 **Skills Demonstrated**:
@@ -43,8 +42,8 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 
 **Platform**: TryHackMe  
 **Tools Used**: Nmap, Nikto, Metasploit  
-**Profile Link**: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4469683" style='border:none;'></iframe> 
-
+**Profile Link**: ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4469683.png)
+[Visit my TryHackMe profile](https://tryhackme.com/p/4469683)
 Performed reconnaissance and exploitation on a vulnerable Linux machine using basic pentesting tools. Captured user and root flags.
 
 **Skills Demonstrated**:
