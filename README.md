@@ -44,6 +44,7 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 **Tools Used**: Nmap, Nikto, Metasploit  
 **Profile Link**: ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4469683.png)
 [Visit my TryHackMe profile](https://tryhackme.com/p/4469683)
+
 Performed reconnaissance and exploitation on a vulnerable Linux machine using basic pentesting tools. Captured user and root flags.
 
 **Skills Demonstrated**:
