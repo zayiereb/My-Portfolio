@@ -38,6 +38,108 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 ![image](https://github.com/user-attachments/assets/53fd33b0-f3bc-40e8-a499-ada447da24d7)
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio Slideshow</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    .slideshow-container {
+      max-width: 900px;
+      position: relative;
+      margin: 40px auto;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      border-radius: 12px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .mySlides {
+      display: none;
+    }
+
+    .mySlides img {
+      width: 100%;
+      border-radius: 12px;
+    }
+
+    /* Optional: Fade animation */
+    .fade {
+      animation: fade 1s ease-in-out;
+    }
+
+    @keyframes fade {
+      from { opacity: 0.4 }
+      to { opacity: 1 }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to My Portfolio</h1>
+  <p>Check out some of my work below:</p>
+
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <img src="![image](https://github.com/user-attachments/assets/222d3a41-0421-4334-980a-fb86a659dbd1)
+" alt="Project 1">
+    </div>
+    <div class="mySlides fade">
+      <img src="![image](https://github.com/user-attachments/assets/246c86ef-e78b-4e42-81a8-cccc729b058f)
+" alt="Project 2">
+    </div>
+    <div class="mySlides fade">
+      <img src="![image](https://github.com/user-attachments/assets/a190d4a5-272f-43ac-b2f0-0f128359960d)
+" alt="Project 3">
+    </div>
+ <div class="mySlides fade">
+      <img src="![image](https://github.com/user-attachments/assets/79109862-c652-4930-8d3f-bf196a42de1a)
+" alt="Project 3">
+    </div>
+  </div>
+
+  <script>
+    let slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+      const slides = document.getElementsByClassName("mySlides");
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) { slideIndex = 1; }
+      slides[slideIndex - 1].style.display = "block";
+      setTimeout(showSlides, 3000); // Change slide every 3 seconds
+    }
+  </script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
