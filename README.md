@@ -14,70 +14,26 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 - Incident Response (Log Analysis, Forensics, Risk Mitigation)
 ![image](https://github.com/user-attachments/assets/b16e870e-1786-46b6-9d49-7f5794e20672)
 ![image](https://github.com/user-attachments/assets/0e501b37-f097-49f1-930f-3e81179b2de3)
- <style>
-    .slideshow-container {
-      max-width: 800px;
-      margin: auto;
-      position: relative;
-      border-radius: 10px;
-      overflow: hidden;
-    }
-
-    .slides {
-      display: none;
-    }
-
-    .slides img {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
-
-    @keyframes fade {
-      from { opacity: 0.4 }
-      to { opacity: 1 }
-    }
-
-    .fade {
-      animation-name: fade;
-      animation-duration: 1.5s;
-    }
-  </style>
-</head>
-<body>
-
-  <h2 style="text-align:center;">My Rotating Image Gallery</h2>
-
-  <div class="slideshow-container">
+ 
+<div class="slideshow-container">
     <div class="slides fade">
-      <img src="images/img1.jpg" alt="Image 1">
+      <img src="![image](https://github.com/user-attachments/assets/dab413be-8a5d-40bc-9e4c-e6a054d9d8cf)
+" alt="Image 1">
     </div>
     <div class="slides fade">
-      <img src="images/img2.jpg" alt="Image 2">
+      <img src="![image](https://github.com/user-attachments/assets/1b523421-b548-4162-92a7-0dfc4952fb77)
+" alt="Image 2">
     </div>
     <div class="slides fade">
-      <img src="images/img3.jpg" alt="Image 3">
+      <img src="![image](https://github.com/user-attachments/assets/dee69608-eeea-4808-8b0a-134d2695c32e)
+">
     </div>
-  </div>
+    <div class="slides fade">
+      <img src="![image](https://github.com/user-attachments/assets/5e2af13d-e648-465c-80a1-8d391006e6e0)
+">
+    </div>
 
-  <script>
-    let slideIndex = 0;
-    showSlides();
-
-    function showSlides() {
-      const slides = document.getElementsByClassName("slides");
-      for (let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-      }
-      slideIndex++;
-      if (slideIndex > slides.length) { slideIndex = 1 }
-      slides[slideIndex - 1].style.display = "block";
-      setTimeout(showSlides, 3000); // Rotate every 3 seconds
-    }
-  </script>
-
-
-
+ 
 ---
 
 ## 🔐 Projects & Labs
