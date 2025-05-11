@@ -38,55 +38,7 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 ![image](https://github.com/user-attachments/assets/53fd33b0-f3bc-40e8-a499-ada447da24d7)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My Portfolio Slideshow</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-    }
 
-    .slideshow-container {
-      max-width: 900px;
-      position: relative;
-      margin: 40px auto;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      border-radius: 12px;
-      overflow: hidden;
-      background: #fff;
-    }
-
-    .mySlides {
-      display: none;
-    }
-
-    .mySlides img {
-      width: 100%;
-      border-radius: 12px;
-    }
-
-    /* Optional: Fade animation */
-    .fade {
-      animation: fade 1s ease-in-out;
-    }
-
-    @keyframes fade {
-      from { opacity: 0.4 }
-      to { opacity: 1 }
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Welcome to My Portfolio</h1>
-  <p>Check out some of my work below:</p>
 
  <div class="slideshow-container">
   <div class="mySlides fade">
