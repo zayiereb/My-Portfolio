@@ -25,7 +25,8 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 
 **Platform**: DeVry University Virtual Lab  
 **Tools Used**: Group Policy Editor, Windows Firewall, Event Viewer  
-**Description**:  
+**Description**: ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4469683.png)
+[Visit my TryHackMe profile](https://tryhackme.com/p/4469683) 
 Configured a secure Windows Server 2019 instance by disabling legacy protocols (e.g., SMBv1), enforcing password complexity, and auditing login events.  
 
 **Skills Demonstrated**:
