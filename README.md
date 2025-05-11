@@ -34,7 +34,8 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 - Security auditing
 
 **Screenshot**:  
-![Windows Server Lab](screenshots/server-hardening.png)
+![image](https://github.com/user-attachments/assets/acb3d34c-0ef3-4dea-ada0-0aa08e3063ba)
+
 
 ---
 
