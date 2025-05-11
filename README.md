@@ -57,9 +57,6 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 
   </div>
 
-
-  </script>
-
 </body>
 </html>
 
