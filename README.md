@@ -1,4 +1,4 @@
-# Zayiere Blount | Portfolio
+# Zayiere Blount | IT Portfolio
 
 Hi, I’m **Zayiere Blount**  
 An aspiring cybersecurity professional currently pursuing my degree at DeVry University. This portfolio highlights my hands-on experience with virtual labs, cybersecurity tools, and practical learning from platforms like TryHackMe and academic environments.
