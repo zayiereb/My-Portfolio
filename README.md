@@ -55,7 +55,10 @@ Performed reconnaissance and exploitation on a vulnerable Linux machine using ba
 - Linux privilege escalation
 
 **Screenshot**:  
-![THM Pentest](screenshots/tryhackme-pentest.png)
+![image](https://github.com/user-attachments/assets/1700f7ab-acd7-4b3a-ab1d-f1f708e455f7)
+![image](https://github.com/user-attachments/assets/9e9a0c72-9acd-433d-8b6e-b02c07cdd868)
+![image](https://github.com/user-attachments/assets/774e503d-693c-43d2-a332-96ef96f25dc0)
+
 
 ---
 
@@ -64,6 +67,8 @@ Performed reconnaissance and exploitation on a vulnerable Linux machine using ba
 - ✅ [TryHackMe: Pre-Security](https://tryhackme.com/path/outline/presecurity)
 - ✅ [TryHackMe: Introduction to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity)
 - 📚 CompTIA Network+ (In Progress)
+![image](https://github.com/user-attachments/assets/ff65f31c-0f0f-4f01-b75e-83fc928f451f)
+
 
 ---
 
