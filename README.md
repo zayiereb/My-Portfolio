@@ -19,25 +19,6 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 ![image](https://github.com/user-attachments/assets/e680127b-6f9f-4e05-b108-20cbefb5ba39)
 ![image](https://github.com/user-attachments/assets/a9784c15-468d-4fa6-b2be-38b5861a946a)
 
-
-<div class="slideshow-container">
-    <div class="slides fade">
-      <img src="![image](https://github.com/user-attachments/assets/dab413be-8a5d-40bc-9e4c-e6a054d9d8cf)
-" alt="Image 1">
-    </div>
-    <div class="slides fade">
-      <img src="![image](https://github.com/user-attachments/assets/1b523421-b548-4162-92a7-0dfc4952fb77)
-" alt="Image 2">
-    </div>
-    <div class="slides fade">
-      <img src="![image](https://github.com/user-attachments/assets/dee69608-eeea-4808-8b0a-134d2695c32e)
-">
-    </div>
-    <div class="slides fade">
-      <img src="![image](https://github.com/user-attachments/assets/5e2af13d-e648-465c-80a1-8d391006e6e0)
-">
-    </div>
-
  
 ---
 
