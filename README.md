@@ -15,6 +15,7 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 ![image](https://github.com/user-attachments/assets/b16e870e-1786-46b6-9d49-7f5794e20672)
 ![image](https://github.com/user-attachments/assets/0e501b37-f097-49f1-930f-3e81179b2de3)
 ![Screenshot 2025-05-11 170446](https://github.com/user-attachments/assets/785515d2-a815-4f73-ac05-e03fbec04365)
+![image](https://github.com/user-attachments/assets/dc459ac1-f7e1-4eb7-b506-bf19e5e1b01a)
 ![image](https://github.com/user-attachments/assets/e680127b-6f9f-4e05-b108-20cbefb5ba39)
 ![image](https://github.com/user-attachments/assets/a9784c15-468d-4fa6-b2be-38b5861a946a)
 
