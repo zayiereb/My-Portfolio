@@ -34,9 +34,9 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 - GPO configuration
 - Security auditing
 
-**Screenshot**:  
-![image](https://github.com/user-attachments/assets/acb3d34c-0ef3-4dea-ada0-0aa08e3063ba)
+**Screenshot**: 
 ![image](https://github.com/user-attachments/assets/b16e870e-1786-46b6-9d49-7f5794e20672)
+![image](https://github.com/user-attachments/assets/acb3d34c-0ef3-4dea-ada0-0aa08e3063ba)
 ![image](https://github.com/user-attachments/assets/53fd33b0-f3bc-40e8-a499-ada447da24d7)
 ![image](https://github.com/user-attachments/assets/0e501b37-f097-49f1-930f-3e81179b2de3)
 ---
