@@ -24,7 +24,7 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 
 ## 🔐 Projects & Labs
 
-### 💻 Windows Server Hardening Lab
+### 💻 Windows Server Hardening Lab & Motion Sensor Device Using Arduino Uno
 
 **Platform**: DeVry University Virtual Lab  
 **Tools Used**: Group Policy Editor, Windows Firewall, Event Viewer  
@@ -64,8 +64,8 @@ Performed reconnaissance and exploitation on a vulnerable Linux machine using ba
 
 ## 🏅 Certifications & Badges
 
-- ✅ [TryHackMe: Pre-Security](https://tryhackme.com/path/outline/presecurity)
-- ✅ [TryHackMe: Introduction to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity)
+- ✅ [TryHackMe: Pre-Security]( https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4469683)
+- ✅ [TryHackMe: Introduction to Offensive Security]
 - 📚 CompTIA Network+ (In Progress)
 ![image](https://github.com/user-attachments/assets/ff65f31c-0f0f-4f01-b75e-83fc928f451f)
 
