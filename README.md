@@ -10,6 +10,7 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 - Networking fundamentals (TCP/IP, Subnetting, DNS, VLANs)
 - Cybersecurity tools: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`
 - Virtualization & Cloud Lab Environments
+- Experience with the following programming languages: HTML 4, HTML5, Python, C, C++
 - Penetration Testing (Reconnaissance, Exploitation, Privilege Escalation)
 - Incident Response (Log Analysis, Forensics, Risk Mitigation)
 - ![image](https://github.com/user-attachments/assets/54bbc695-c43b-47f5-8dee-fe3ea93e4d4c)
@@ -25,8 +26,7 @@ An aspiring cybersecurity professional currently pursuing my degree at DeVry Uni
 
 ## 🔐 Projects & Labs
 
-### 💻 Windows Server Hardening Lab & Motion Sensor Device Using Arduino Uno
-
+### 💻 Windows Server Hardening Lab 
 **Platform**: DeVry University Virtual Lab  
 **Tools Used**: Group Policy Editor, Windows Firewall, Event Viewer  
 **Description**:  
