@@ -42,6 +42,9 @@ Configured a secure Windows Server 2019 instance by disabling legacy protocols (
 ![image](https://github.com/user-attachments/assets/acb3d34c-0ef3-4dea-ada0-0aa08e3063ba)
 ![image](https://github.com/user-attachments/assets/53fd33b0-f3bc-40e8-a499-ada447da24d7)
 ![image](https://github.com/user-attachments/assets/0e501b37-f097-49f1-930f-3e81179b2de3)
+![image](https://github.com/user-attachments/assets/fd42c308-e82f-4cf2-9eba-1b2857c557e1)
+![image](https://github.com/user-attachments/assets/0d60192b-beac-4544-a091-ac50971084f7)
+
 ---
 
 ### 🧪 TryHackMe: Intro to Networking
