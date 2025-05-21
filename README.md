@@ -1,6 +1,6 @@
 # Zayiere Blount | IT Portfolio
 
-Hi, I’m Zayiere Blount, a cybersecurity student at DeVry University focused on hands-on lab work, real-world offensive security tools, and building a portfolio of meaningful, testable projects. I’ve completed labs in penetration testing, incident response, and network hardening, and I’m currently working toward my CompTIA Network+ certification.
+Hi, I’m Zayiere Blount, a cybersecurity student at DeVry University focused on hands-on lab work, real-world offensive security tools, and building a portfolio of meaningful, testable projects. I’ve completed penetration testing, incident response, and network hardening labs, and I’m working toward my CompTIA Network+ certification.
 ---
 
 ## 🛠️ Skills
