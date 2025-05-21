@@ -79,7 +79,8 @@ Performed reconnaissance and exploitation on a vulnerable Linux machine using ba
 - **Email**: Zayiereblount@gmail.com  
 - **LinkedIn**: www.linkedin.com/in/zayiere-blount-920161241  
 - **GitHub**: https://github.com/zayiereb/My-Portfolio.git
-- **Resume**: [View PDF](#)
+- **Resume**: [Zayiere-Blount (2).pdf](https://github.com/user-attachments/files/20374476/Zayiere-Blount.2.pdf)
+
 
 ---
 
